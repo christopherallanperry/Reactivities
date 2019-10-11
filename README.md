@@ -1,4 +1,4 @@
-# DatingApp
+# Event Management App
 This repo was created by following the Udemy Course - ["Complete =guide to building an app with .Net Core and ReactJS"](https://www.udemy.com/course/complete-guide-to-building-an-app-with-net-core-and-react). 
 
 ## Getting Started
