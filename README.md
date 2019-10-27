@@ -1,5 +1,6 @@
 # Event Management App
-This repo was created by following the Udemy Course - ["Complete =guide to building an app with .Net Core and ReactJS"](https://www.udemy.com/course/complete-guide-to-building-an-app-with-net-core-and-react). 
+
+This repo was created by following the Udemy Course - ["Complete guide to building an app with .Net Core and ReactJS"](https://www.udemy.com/course/complete-guide-to-building-an-app-with-net-core-and-react).
 
 ## Getting Started
 
@@ -9,13 +10,15 @@ These instructions will get you a copy of the project up and running on your loc
 
 To run this project, you will need to have the following prerequisites installed:
 
-- [ASP.net Core SDK](https://dotnet.microsoft.com/learn/dotnet/hello-world-tutorial/install) - created using v2.2.106
-- [SQLite](http://sqlitebrowser.org/) - created using v3.11.2
-- [NodeJS](https://nodejs.org/en/) - created using v8.9.4
-- [ReactJS](https://angular.io/) - created using v16.9.0
+-   [ASP.net Core SDK](https://dotnet.microsoft.com/learn/dotnet/hello-world-tutorial/install) - created using v2.2.106
+-   [SQLite](http://sqlitebrowser.org/) - created using v3.11.2
+-   [NodeJS](https://nodejs.org/en/) - created using v8.9.4
+-   [ReactJS](https://angular.io/) - created using v16.9.0
 
 ### Installation
+
 #### API (DotNet Core / SQLite Backend)
+
 From your command line / terminal, navigate into the `/API` folder and run...
 
 ```cli
@@ -31,14 +34,15 @@ From your command line / terminal, navigate into the `client-app` folder and run
 ```cli
 $ npm i
 ```
-... to install the dependencies.
 
+... to install the dependencies.
 
 To start the SPA server, run...
 
 ```cli
 $ npm start
 ```
+
 If it doesn't do so automatically, navigate to `http://localhost:3000/`, to see the React SPA page, register a username and password to have a look at how the app works inside.
 
 ## Running the tests
@@ -67,7 +71,7 @@ _TBD_ Add additional notes about how to deploy this on a live system
 
 ## Built With
 
-* TBD
+-   TBD
 
 ## Contributing
 
@@ -79,7 +83,7 @@ _TBD_
 
 ## Authors
 
-* **Chris Perry** - *Initial work* - [christopherallanperry](https://github.com/christopherallanperry)
+-   **Chris Perry** - _Initial work_ - [christopherallanperry](https://github.com/christopherallanperry)
 
 See also the list of [contributors](https://github.com/christopherallanperry/DatingApp/graphs/contributors) who have participated in this project.
 
@@ -89,4 +93,4 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## Acknowledgments
 
-* Udemy course tutor, Neil Cummings
+-   Udemy course tutor, Neil Cummings
